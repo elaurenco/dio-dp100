@@ -15,9 +15,13 @@ Base que foi utilizada também está na pasta input
 
 Primeiro exercício feito foi a criação de um AutoML, achei bem intuitivo e de fácil execução. Como já trabalhei com H2O verifiquei que aqui é mais simples a execução padrão, visto que no H2O até a simples execução libera várias configurações na tela.
 
-<img src="https://github.com/elaurenco/dio-dp100/blob/main/inputs/auto_ml.png" alt="Texto Alternativo">
+<img src="https://github.com/elaurenco/dio-dp100/blob/main/inputs/auto_ml.png" alt="Execução do AutoML">
+
+<img src="https://github.com/elaurenco/dio-dp100/blob/main/inputs/modelos_automl.png" alt="Modelos do AutoML">
 
 O segundo exercício foi o da criação do designer, como da primeira vez foi bem intuitivo, lembra muito o SAS, tive um pouco de dificuldade de encontrar onde executava o projeto.
 
-<img src="https://github.com/elaurenco/dio-dp100/blob/main/inputs/designer.png" alt="Texto Alternativo">
+<img src="https://github.com/elaurenco/dio-dp100/blob/main/inputs/designer.png" alt="Designer">
+
+No geral muito fácil de se utilizar, claro que necessitamos do conhecimento do que estamos fazendo para não gastar recursos desnecessários.
 
