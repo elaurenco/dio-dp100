@@ -23,5 +23,7 @@ O segundo exercício foi o da criação do designer, como da primeira vez foi be
 
 <img src="https://github.com/elaurenco/dio-dp100/blob/main/inputs/designer.png" alt="Designer">
 
+<img src="https://github.com/elaurenco/dio-dp100/blob/main/inputs/pip_executado.png" alt="Designer Executado">
+
 No geral muito fácil de se utilizar, claro que necessitamos do conhecimento do que estamos fazendo para não gastar recursos desnecessários.
 
