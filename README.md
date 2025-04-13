@@ -19,5 +19,5 @@ Primeiro exercício feito foi a criação de um AutoML, achei bem intuitivo e de
 
 O segundo exercício foi o da criação do designer, como da primeira vez foi bem intuitivo, lembra muito o SAS, tive um pouco de dificuldade de encontrar onde executava o projeto.
 
-<img src="[https://github.com/elaurenco/dio-dp100/blob/main/inputs/auto_ml.png](https://github.com/elaurenco/dio-dp100/blob/main/inputs/designer.png)" alt="Texto Alternativo">
+<img src="https://github.com/elaurenco/dio-dp100/blob/main/inputs/designer.png" alt="Texto Alternativo">
 
